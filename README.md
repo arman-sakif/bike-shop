@@ -46,11 +46,13 @@ The dashboard explores:
 
 ## 🗂️ Repository Structure
 
-📁 root
-├── 📊 image.png # Dashboard preview (shown above)
-├── 📁 data/ # Contains real sample data used for analysis
-├── 📁 assets/ # Contains icons and visual elements used in the report
+```plaintext
+root/
+├── 📊 image.png         # Dashboard preview (shown above)
+├── 📁 data/             # Contains real sample data used for analysis
+├── 📁 assets/           # Contains icons and visual elements used in the report
 └── README.md
+
 
 - The dashboard uses **real sample data** stored in the `data/` folder.
 - Custom icons and design assets are located in the `assets/` folder to enhance visualization aesthetics.
