@@ -83,16 +83,10 @@ Data covers **2021** and **2022**, with an interactive **holiday** filter for se
 
 ---
 
-## 📸 Dashboard Preview
-
-![Goodman Bike Shop Dashboard](./image.png)
-
----
-
 ## 👨‍💻 Author
 
 **Arman S. Chowdhury**  
-📍 Power BI Developer | Data Analyst  
+📍 BI Developer | Data Analyst | Data Engineer 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/arman-sakif-09/)  
 
 ---
